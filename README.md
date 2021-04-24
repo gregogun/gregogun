@@ -26,7 +26,7 @@ Building the 2nd iteration of my portfolio website, with Next.js, Chakra UI and 
 
 - Helping to make the web more accessible.
 - Building a communuity around what I love.
-- My coding playlist.
+- My [coding playlist](https://open.spotify.com/playlist/6r9Mi2pbYTfZH8FqdgR4ZJ?si=nmWPOOq9QpGTUtIcyPMoHg).
 
 ---
 
