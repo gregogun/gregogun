@@ -1,6 +1,6 @@
 ![banner](https://github.com/gregogun/gregogun/blob/master/src/profile-banner.png)
 
-# Hey, I'm Greg Ogun.
+# 👋 Hey, I'm Greg Ogun.
 
 I’m a self taught developer with a focus on designing and building scalable, maintainable and accessible solutions on the web.
 
@@ -8,13 +8,13 @@ I work mainly on the frontend writing React code, however I'm also becoming inte
 
 --- 
 
-## I'm currently working on: 
+## 🚀 I'm currently working on: 
 
 Building the 2nd iteration of my portfolio website, with Next.js, Chakra UI and Storybook. You can watch me build it live [here](https://www.youtube.com/channel/UCQDUHOvgodaEqjHm9Ihn87w)!
 
 --- 
 
-## I'm currently learning: 
+## 📚 I'm currently learning: 
 
 - Next.js
 - GraphQL
@@ -22,7 +22,7 @@ Building the 2nd iteration of my portfolio website, with Next.js, Chakra UI and 
 
 --- 
 
-## I'm passionate about: 
+## ❤ I'm passionate about: 
 
 - Helping to make the web more accessible.
 - Building a communuity around what I love.
@@ -30,7 +30,7 @@ Building the 2nd iteration of my portfolio website, with Next.js, Chakra UI and 
 
 ---
 
-## I want to learn more about: 
+## 💭 I want to learn more about: 
 
 - Design Systems
 - Atomic Design
