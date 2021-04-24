@@ -1,7 +1,6 @@
-![Follow](https://img.shields.io/github/followers/gregogun?style=social)
-![Follow](https://img.shields.io/twitter/follow/gregogun?style=social)
-![Twitch](https://img.shields.io/twitch/status/gregogun?style=social)
-![Views](https://img.shields.io/youtube/channel/views/UCQDUHOvgodaEqjHm9Ihn87w?style=social)
+![Follow](https://img.shields.io/twitter/follow/gregogun?color=%231DA1F2&logo=Twitter&style=flat-square)
+![Twitch](https://img.shields.io/twitch/status/gregogun?color=%23865cff&logo=Twitch&logoColor=%23fcfcfc&style=flat-square)
+![Views](https://img.shields.io/youtube/channel/views/UCQDUHOvgodaEqjHm9Ihn87w?logo=Youtube&logoColor=%23E05D44&style=flat-square)
 
 
 ![banner](https://github.com/gregogun/gregogun/blob/master/src/profile-banner.png)
