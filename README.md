@@ -1,4 +1,4 @@
-![banner](https://github.com/gregogun/gregogun/blob/master/src/READMEbanner.png)
+![banner](https://github.com/gregogun/gregogun/blob/master/src/profile-banner.png)
 
 # Hey, I'm Greg Ogun.
 
