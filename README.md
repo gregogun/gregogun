@@ -4,7 +4,7 @@
 
 I’m a self taught developer with a focus on designing and building scalable, maintainable and accessible solutions on the web.
 
-I work mainly on the frontend writing React code, however I'm also becoming interested in the fullstack approach, with some knowledge around Node.js and GraphQL.
+I work mainly on the frontend writing React code, however I'm also becoming interested in the fullstack approach, with some knowledge around Node.js and GraphQL that I aim to build on through personal projects.
 
 --- 
 
