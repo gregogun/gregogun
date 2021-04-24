@@ -1,5 +1,7 @@
-https://img.shields.io/github/followers/gregogun?style=social
-https://img.shields.io/twitter/follow/gregogun?style=social
+[Follow](https://img.shields.io/github/followers/gregogun?style=social)
+[Follow](https://img.shields.io/twitter/follow/gregogun?style=social)
+[Twitch](https://img.shields.io/twitch/status/gregogun?style=social)
+[Views](https://img.shields.io/youtube/channel/views/UCQDUHOvgodaEqjHm9Ihn87w?style=social)
 
 
 ![banner](https://github.com/gregogun/gregogun/blob/master/src/profile-banner.png)
