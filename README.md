@@ -1,3 +1,7 @@
+https://img.shields.io/github/followers/gregogun?style=social
+https://img.shields.io/twitter/follow/gregogun?style=social
+
+
 ![banner](https://github.com/gregogun/gregogun/blob/master/src/profile-banner.png)
 
 # 👋 Hey, I'm Greg Ogun.
