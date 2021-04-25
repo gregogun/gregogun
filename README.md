@@ -37,6 +37,6 @@ Building the 2nd iteration of my portfolio website, with Next.js, Chakra UI and 
 
 ## 💭 I want to learn more about: 
 
+- Accessibility
 - Design Systems
-- Atomic Design
 - Functional Programming
