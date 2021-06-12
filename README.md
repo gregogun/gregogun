@@ -22,7 +22,7 @@ Building the 2nd iteration of my portfolio website, with Next.js, Chakra UI and 
 ## 📚 I'm currently learning: 
 
 - Next.js
-- GraphQL
+- Typescript
 - Testing/TDD
 
 --- 
