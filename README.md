@@ -5,38 +5,15 @@
 
 ![banner](https://github.com/gregogun/gregogun/blob/master/src/profile-banner.png)
 
-# 👋 Hey, I'm Greg Ogun.
+<h1>Greg Ogun</h1>
 
-I’m a self taught developer with a focus on designing and building scalable, maintainable and accessible solutions on the web.
+<em>Design-focused engineer inspired by the art of building quality software.</em>
 
-I work mainly on the frontend writing React code, however I'm also becoming interested in the fullstack approach, with some knowledge around Node.js and GraphQL that I aim to build on through personal projects.
+Crafting highly composable, accessible react components with [Aura UI](https://github.com/aura-ui/aura-ui).
+Helping to shape the future of storytelling at [Sigle](https://sigle.io). 
 
---- 
 
-## 🚀 I'm currently working on: 
-
-Building the 2nd iteration of my portfolio website, with Next.js, Chakra UI and Storybook. You can watch me build it live [here](https://www.youtube.com/channel/UCQDUHOvgodaEqjHm9Ihn87w)!
-
---- 
-
-## 📚 I'm currently learning: 
-
-- Next.js
-- Typescript
-- Testing/TDD
-
---- 
-
-## ❤ I'm passionate about: 
-
-- Helping to make the web more accessible.
-- Building a communuity around what I love.
-- My [coding playlist](https://open.spotify.com/playlist/6r9Mi2pbYTfZH8FqdgR4ZJ?si=nmWPOOq9QpGTUtIcyPMoHg).
-
----
-
-## 💭 I want to learn more about: 
-
-- Accessibility
-- Design Systems
-- Functional Programming
+Connect with me: 
+[Twitter](https://twitter.com/gregogun)
+[Polywork](https://polywork.com/gregogun)
+[Linkedin](https://linkedin.com/gregogun)
