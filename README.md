@@ -9,8 +9,7 @@
 
 <em>Design-focused engineer inspired by the art of building quality software.</em>
 
-Crafting highly composable, accessible react components with [Aura UI](https://github.com/aura-ui/aura-ui).
-Helping to shape the future of storytelling at [Sigle](https://sigle.io). 
+Crafting high-quality, composable react components with [Aura UI](https://github.com/aura-ui/aura-ui).
 
 
 Connect with me: 
